@@ -47,7 +47,7 @@ O pipeline segue a estrutura clássica E-T-L, com foco na modularidade e resili�
 * **Linguagem Principal:** Python 3.10+
 * **Bibliotecas:** Pandas (Processamento de Dados), JSON (Carregamento).
 * **Conceitos Arquiteturais:** Modularização de Código (Sênior), Resiliência e Tratamento de Exceções, Data Structuring com LLMs.
-* **Ferramentas Sênior (Mencionadas para Contexto):** Apache Airflow/Prefect (Orquestração), Docker (Empacotamento), vLLM/Ollama (Inferência Otimizada).
+* **Ferramentas:** Apache Airflow/Prefect (Orquestração), Docker (Empacotamento), vLLM/Ollama (Inferência Otimizada).
 
 ## ⚙️ Como Executar o Projeto
 
